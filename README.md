@@ -1,7 +1,7 @@
 <!-- Hero Banner -->
 
 
-# 👋 Hi there, I’m Devnaam!
+# 👋 Hi there, I’m Devnaam Priyadershi!
 
 Welcome to my GitHub! I’m passionate about **technology, trading, and personal growth**. I aim to build impactful digital products and inspire others through my journey.
 ## 🛠️ Skills & Tools
@@ -86,13 +86,6 @@ Welcome to my GitHub! I’m passionate about **technology, trading, and personal
 - 🎥 **YouTube: "Art of Chart Reading"** — Learn trading through charts  
 - 📢 **Instagram: @MoneyMakesMagic** — Daily trading & personal growth uploads
 
----
-
-## 🔥 Now
-- Reading: _Mastering the Trade_ by John F. Carter  
-- Watching: Stock Trends 📈 | Learning AWS & Streamlit  
-- Goal: Upload daily journey to Instagram @MoneyMakesMagic  
-- Dreaming: To be the **best trader**, **data analyst**, and reach **20k followers**  
 
 
 
@@ -106,9 +99,11 @@ Welcome to my GitHub! I’m passionate about **technology, trading, and personal
 ---
 
 ## 📫 Let’s Connect!
-- 📩 Email: **devnaam.business@gmail.com**  
-- 📱 Instagram: [@MoneyMakesMagic](https://www.instagram.com/moneymakesmagic)  
-- 💼 LinkedIn: [Devnaam](https://www.linkedin.com/in/devnaam) *(replace with your actual link)*
+
+- 📩 **Email:** workwithdevnaam@gmail.com  
+- 💼 **LinkedIn:** [Devnaam](https://www.linkedin.com/in/raj-priyadershi-56a256282/)  
+- 🌐 **Portfolio:** [devnaam4s.vercel.app](https://devnaam4s.vercel.app/)
+
 
 ---
 
